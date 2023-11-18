@@ -63,3 +63,14 @@ img.next-image {
 .nav-line .nav-link {
   color: #69778c;
 }
+.nx-flex {
+
+  flex-direction: row-reverse;
+}
+
+
+
+.nx-cursor-default {
+  cursor: default;
+  display: none;
+}
