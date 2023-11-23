@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Lee Jackson',
     description: 'Portfolio by Lee Jackson.',
-    image: 'https://i.ibb.co/jrm1LBd/Lee-Jacksonwebdev.jpg'
+    image: ''
   }
 
   return (
