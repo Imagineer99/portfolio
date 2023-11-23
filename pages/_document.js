@@ -2,9 +2,9 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'Lee Jackson CV',
-    description: 'Clone and deploy your own Next.js portfolio in minutes.',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    title: 'Lee Jackson',
+    description: 'Portfolio by Lee Jackson.',
+    image: 'https://i.ibb.co/jrm1LBd/Lee-Jacksonwebdev.jpg'
   }
 
   return (
