@@ -86,3 +86,9 @@ img.next-image {
         height: 400px; /* Adjust the height as per your design */
       }
     }
+
+
+a[href="/posts"] {
+  display: none;
+}
+
